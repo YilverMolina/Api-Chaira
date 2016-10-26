@@ -1,0 +1,49 @@
+ORGANIZACIÓN
+
+GIECOM (Gestión del Conocimiento, Informática, Electrónica y Comunicaciones)
+
+Director: HERIBERTO FERNANDO VARGAS LOSADA
+Correo: heri.vargas@udla.edu.co
+
+Logo GIECOM:
+http://giecom.udla.edu.co/rqsoft/Styles/img/LogoGIECOM.png
+
+Email giecom: giecom@uniamazonia.edu.co
+
+Aplicaciones:
+
+----------------------------------------------------------------------------------
+Nombre: Plataforma Gestión Documental de proyectos de investigación con MDD
+Categoría: Investigación
+Logo: http://giecom.udla.edu.co/rqsoft/Styles/img/LogoGIECOM.png
+Email: yi.molina@udla.edu.co
+Versión: 1.0
+Scope: Datos personales (públicos y pivados), programas, facultades
+URL: http://191.102.85.226/mdd
+
+----------------------------------------------------------------------------------
+Nombre: Plataforma para la visibilidad de los eventos realizados por los Semilleros de Investigación
+Categoría: Investigación
+Logo: http://giecom.udla.edu.co/rqsoft/Styles/img/LogoGIECOM.png
+Email: yi.molina@udla.edu.co
+Versión: 1.0
+Scope: Datos personales (públicos y pivados), programas, facultades
+URL: http://191.102.85.226/semilleros
+
+----------------------------------------------------------------------------------
+Nombre: Plataforma para la gestión de procesos electorales en la Universidad de la Amazonia
+Categoría: Investigación
+Logo: http://giecom.udla.edu.co/rqsoft/Styles/img/LogoGIECOM.png
+Email: g.cortes@udla.edu.co
+Versión: 1.0
+Scope: Datos personales (públicos y pivados), programas, facultades
+URL: http://191.102.85.226/electoral/views/index.aspx
+
+
+
+
+
+
+
+
+

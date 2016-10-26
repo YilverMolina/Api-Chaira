@@ -1,0 +1,7 @@
+client_id: 159453327395
+client_secret: nm0rlweo35q4v7rpw6rl29gj1d7p4y
+
+Correr app:
+
+- node server.js
+- Logear con Chaira: http://localhost:8081/home
