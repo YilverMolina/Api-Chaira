@@ -1,6 +1,6 @@
 var app = angular.module('chaira-developer', ['ngRoute', 'route-segment', 'view-segment']);
 
-var api_url = "http://chaira.udla.edu.co/api";
+var api_url = "http://chaira.udla.edu.co/api/v0.1";
 //var api_url = "http://localhost:48532";
 
 app.config(['$routeSegmentProvider', '$routeProvider', '$locationProvider', '$httpProvider',

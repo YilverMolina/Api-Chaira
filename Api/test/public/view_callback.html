@@ -6,7 +6,8 @@
 <h3>Refresh_token =  {{res.refresh_token}}</h3>
 
 <button ng-click="refreshToken()">Refrescar token</button>
-
+<input type="" ng-model="resourceScope">
+<button ng-click="resource(resourceScope)">Recurso</button>
 <h3>Usuario:</h3>
 <img ng-src="{{scope.FOTO}}">
 <h3>Codigo: {{scope.CODIGO}}</h3>
